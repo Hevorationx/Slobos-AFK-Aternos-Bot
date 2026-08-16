@@ -8,7 +8,7 @@
   "server": {meandbro
     "ip": "meandbro.aternos.me",
     "port": 42492,
-    "version":1.26.1.2 "",
+    "version":26.1.2 "",
     "try-creative": false
   },
   "position": {
